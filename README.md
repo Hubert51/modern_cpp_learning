@@ -1,0 +1,1 @@
+[21-new-features-of-modern-cpp-to-use-in-your-project]( http://www.vishalchovatiya.com/21-new-features-of-modern-cpp-to-use-in-your-project/)
